@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm S.M Hasnan Monir</h1>
-<h3 align="center">A BRAC University CS student from Dhaka and I'm exploring what I also had interest on, Web developmet!</h3>
+<h3 align="center">A BRAC University CS student from Dhaka and I'm exploring what I always had interest on, Web developmet!</h3>
 
 - 🌱 I’m currently learning **Python Data Science and AI, Web Development frontend and backend**
 
